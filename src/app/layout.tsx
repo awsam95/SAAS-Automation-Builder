@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/provider/them-provider";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Awsam.",
+  title: "Awsam",
   description: "Automate Your Work With Awsam.",
 };
 
